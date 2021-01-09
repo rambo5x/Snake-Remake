@@ -1,2 +1,2 @@
 # Snake-Remake
-2D Snake remake inspired by original Snake game.
+2D Snake remake inspired by original Snake game. Made using Unity and C#.
